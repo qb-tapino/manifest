@@ -4,4 +4,4 @@
   <project name="qb-tapino/android_kernel_qb_tapino" path="kernel/qp/tapino" remote="private" />
   <project name="qb-tapino/android_vendor_secure" path="vendor/secure" remote="private" />
   <project name="qb-tapino/proprietary_vendor_qb" path="vendor/qb" remote="private" />
-</manifest>%
+</manifest>
