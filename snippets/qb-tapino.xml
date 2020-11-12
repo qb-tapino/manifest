@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="qb-tapino/android_device_qb_tapino" path="device/qb/tapino" remote="private" />
+  <project name="qb-tapino/android_kernel_qb_tapino" path="kernel/qp/tapino" remote="private" />
+  <project name="qb-tapino/android_vendor_secure" path="vendor/secure" remote="private" />
+  <project name="qb-tapino/proprietary_vendor_qb" path="vendor/qb" remote="private" />
+</manifest>%
